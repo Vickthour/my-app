@@ -1,2 +1,2 @@
 # my-app
-A react standalone app
+A react standalone app.
