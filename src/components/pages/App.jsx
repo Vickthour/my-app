@@ -9,12 +9,12 @@ function App() {
     <div>
       
       <Header />  
-        <Note />
+        {/* <Note />
           
         <Display name={Contacts[1].name} phone={Contacts[1].phone} email={Contacts[1].email} />
         <Display name={Contacts[2].name} phone={Contacts[2].phone} email={Contacts[2].email} />
         <Display name={Contacts[0].name} phone={Contacts[0].phone} email={Contacts[0].email} />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 }
