@@ -133,6 +133,7 @@ form button {
     border-radius: 3px;
     width: 120px;
     font-size: 15px;
-    opacity: 10px;
+    opacity: 50px;
     margin: 10px;
+    border-radius: 50%;
 }
