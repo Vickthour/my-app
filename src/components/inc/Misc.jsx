@@ -18,6 +18,8 @@ const state = React.useState;
     isSign(isLogin = false);
   }
 
+
+
   return (
     <div>      
       {/* <Header />  
@@ -34,5 +36,6 @@ const state = React.useState;
     </div>
   );
 }
+
 
 export default Misc;
